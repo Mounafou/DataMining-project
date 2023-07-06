@@ -1,0 +1,9 @@
+momo1 ,2 wrong
+momo3: fillna (median), GaussianNB
+momo4: fillna (median), StandardScaler, LogisticRegression
+momo5: fillna (median), DTC
+momo12: fillna (median), linSVC
+momo10: 
+momo13: fillna (mean), omit sparse features, GNB
+momo14: fillna (mean), omit sparse features,standard scaling , GNB
+momo20: fillna (median), omit sparse features (more than 0.4), no scaling, class weight [1:50], logreg
